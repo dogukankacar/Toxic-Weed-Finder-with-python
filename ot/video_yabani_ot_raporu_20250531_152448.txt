@@ -1,0 +1,55 @@
+VIDEO YABANI OT TESPİT RAPORU
+============================================================
+
+Tarih: 31/05/2025 - 15:24
+Uygulama: Yabani Ot Tespit Sistemi v1.0
+Analiz Türü: Video Analizi
+
+GENEL İSTATİSTİKLER:
+------------------------------
+Yabani ot tespit edilen frame sayısı: 104
+Tespit edilen ot türü sayısı: 3
+
+TESPİT EDİLEN YABANI OTLAR:
+----------------------------------------
+
+Ot Türü: SIRKEN
+Görünme Sıklığı: 104 frame
+Ortalama Kaplama: %45.68
+Risk Seviyesi: yüksek
+--------------------
+Ot Türü: GELINCIK
+Görünme Sıklığı: 32 frame
+Ortalama Kaplama: %0.09
+Risk Seviyesi: düşük
+--------------------
+Ot Türü: KOYUNGÖZÜ
+Görünme Sıklığı: 69 frame
+Ortalama Kaplama: %0.16
+Risk Seviyesi: orta
+--------------------
+
+RİSK DEĞERLENDİRMESİ:
+Düşük Risk Tespitleri: 32
+Orta Risk Tespitleri: 69
+Yüksek Risk Tespitleri: 104
+
+ZAMAN BAZLI ANALİZ:
+-------------------------
+Zaman: 0.5s - Frame: 15 - Tespit: 2 tür
+Zaman: 1.0s - Frame: 30 - Tespit: 2 tür
+Zaman: 1.5s - Frame: 45 - Tespit: 1 tür
+Zaman: 2.0s - Frame: 60 - Tespit: 2 tür
+Zaman: 2.5s - Frame: 75 - Tespit: 2 tür
+Zaman: 3.0s - Frame: 90 - Tespit: 2 tür
+Zaman: 3.5s - Frame: 105 - Tespit: 2 tür
+Zaman: 4.0s - Frame: 120 - Tespit: 1 tür
+Zaman: 4.5s - Frame: 135 - Tespit: 2 tür
+Zaman: 5.0s - Frame: 150 - Tespit: 2 tür
+... ve 94 tespit daha
+
+ÖNERİLER:
+---------------
+- Acil müdahale gerekli!
+- Herbisit uygulaması önerilir
+- Uzman danışmanlığı alın

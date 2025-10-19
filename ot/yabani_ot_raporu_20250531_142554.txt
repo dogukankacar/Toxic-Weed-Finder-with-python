@@ -1,0 +1,17 @@
+YABANI OT TESPİT RAPORU
+==================================================
+
+Tarih: 31/05/2025 - 14:25
+Uygulama: Yabani Ot Tespit Sistemi v1.0
+
+TESPİT EDİLEN YABANI OTLAR:
+------------------------------
+
+Ot Türü: sirken
+Adet: 1
+Kaplama Alanı: %96.34
+Risk Seviyesi: yüksek
+
+GENEL DEĞERLENDİRME:
+Toplam Yabani Ot Kaplamı: %96.34
+Durum: Yüksek risk - Acil müdahale gerekli

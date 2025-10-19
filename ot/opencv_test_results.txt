@@ -1,0 +1,4 @@
+OpenCV successfully loaded!
+OpenCV version: 4.11.0
+NumPy successfully loaded!
+Pillow successfully loaded!
